@@ -5,7 +5,7 @@ And then type:<br>
 <code>python main.py # or python3 main.py</code>
 <br>
 Now, you can do <code>telnet localhost</code> to connect to your server. Type /help for a list of commands you can run.
-<br>
+<br><br>
 You can also run it with Docker:<br>
 <code>docker build -t telnet-figlet . # to build the image</code>
 <br>
